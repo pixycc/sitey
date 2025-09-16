@@ -1,0 +1,94 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+{{ range .RegularPages }}
+	<div class=post>
+	
+	<a href="{{ .RelPermalink }}">
+	
+		{{ if .Params.cover }}
+			
+			<picture>
+				{{ if .Params.jxl }} <source srcset="/covers/jxl/{{ .Params.jxl }}" type="image/jxl"> {{ end }}
+				{{ if .Params.webp }} <source srcset="/covers/webp/{{ .Params.webp }}" type="image/webp"> {{ end }}
+				<img src="/covers/{{ .Params.cover }}" class=cover>
+			</picture>
+			
+			
+			
+			
+	
+		{{ end }}
+	
+	</a>
+	
+		
+		<div>
+		
+			
+			
+			<a href="{{ .RelPermalink }}">
+				<p>
+				
+					<span class=title>{{ .Title }}</span>
+					<span class=right>{{ if .Date }}{{ .Date | time.Format "2006-01-02" }}{{ end }}</span>
+				
+				</p>
+			</a>
+			
+			<div class=infos>
+			
+				{{ if .Params.track }}
+					<p>{{ .Params.artist }} {{ if .Params.genres }}- {{ .Params.genres }}{{end}} - {{ .Params.releasetype }} - {{ .Params.release }} - {{ .Params.runtime }}</p>
+				{{end}}
+			
+				{{ .Summary }}
+				
+			</div>
+			
+			<a href="{{ .RelPermalink }}">
+				{{ if findRE `<!--more-->` .RawContent }}>> read more{{end}}
+			</a>
+
+			
+		</div>
+		
+		<span class=chips>
+	
+			{{ if .Params.youtube }}
+				<a href="{{ .Params.youtube }}">
+					<span class=chip>watch <img src="/svg/youtube.svg"></span>
+				</a>
+			{{end}}
+			
+			{{ if .Params.soundcloud }}
+				<a href="{{ .Params.soundcloud }}">
+					<span class=chip>listen <img src="/svg/soundcloud.svg"></span>
+				</a>
+			{{end}}
+
+			
+			{{ if .Params.bandcamp }}
+				<a href="{{ .Params.bandcamp }}">
+					<span class=chip>download <img src="/svg/bandcamp.svg"></span>
+				</a>
+			{{end}}
+			
+			{{ if .Params.file }}
+				<a href="{{ .Params.file }}">
+					<span class=chip>{{ .Params.fileDescription }} <img src="/svg/file.svg"></span>
+				</a>
+			{{end}}
+
+		</span>
+		
+	</div>
+	
+{{ end }}
+
+{{ if .Params.footnote }}
+	<a href="{{ .Params.footnoteLink }}"><p class=footnote>{{ .Params.footnote }}</p></a>
+{{ end }}
+
+{{ partial "footer.html" . }}

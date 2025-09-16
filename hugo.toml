@@ -1,0 +1,7 @@
+baseURL = 'pixyc.cc'
+languageCode = 'en-us'
+title = 'nullvoice'
+titleCaseStyle = 'none'
+pluralizelisttitles = 'false'
+[security]
+  enableInlineShortcodes = true

@@ -1,0 +1,65 @@
+{{ partial "header.html" . }}
+
+	<div class=post>
+	
+	{{ with .Params.cover}}<img src="/covers/{{ . }}" class=cover>{{ end }}
+		
+		<div>
+		
+			
+			
+			<a href="{{ .RelPermalink }}">
+				<p>
+				
+					<span class=title>{{ .Title }}</span>
+					<span class=right>{{ if .Date }}{{ .Date | time.Format "2006-01-02" }}{{ end }}</span>
+				
+				</p>
+			</a>
+			
+			<div class=infos>
+			
+				{{ if .Params.track }}
+					<p>{{ .Params.artist }} {{ if .Params.genres }}- {{ .Params.genres }}{{end}} - {{ .Params.releasetype }} - {{ .Params.release }} - {{ .Params.runtime }}</p>
+				{{end}}
+			
+				{{ .Content }}
+				
+			</div>
+				
+		</div>
+		
+				<span class=chips>
+	
+			{{ if .Params.youtube }}
+				<a href="{{ .Params.youtube }}">
+					<span class=chip>watch <img src="/svg/youtube.svg"></span>
+				</a>
+			{{end}}
+			
+			{{ if .Params.soundcloud }}
+				<a href="{{ .Params.soundcloud }}">
+					<span class=chip>listen <img src="/svg/soundcloud.svg"></span>
+				</a>
+			{{end}}
+
+			
+			{{ if .Params.youtube }}
+				<a href="{{ .Params.bandcamp }}">
+					<span class=chip>download <img src="/svg/bandcamp.svg"></span>
+				</a>
+			{{end}}
+			
+			{{ if .Params.file }}
+				<a href="{{ .Params.file }}">
+					<span class=chip>{{ .Params.fileDescription }} <img src="/svg/file.svg"></span>
+				</a>
+			{{end}}
+
+		</span>
+		
+	</div>
+	
+	
+
+{{ partial "footer.html" . }}

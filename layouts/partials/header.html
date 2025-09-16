@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+	
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ .Permalink }} - {{ .Title }}</title>
+		<link rel="stylesheet" href="/styles.css">
+		<link rel="icon" href="/favi.png" sizes="any">
+		<meta name="keywords" content="music, blog, personal">
+		<link rel="apple-touch-icon" href="/favi.png">
+		<meta name="description" content="{{ if .Params.Track }}{{ .Params.artist }} - {{ .Title }} - {{ if .Params.genres }}{{ .Params.genres }}{{end}} - {{ .Params.releasetype }} - {{ .Params.release }} - {{ .Params.runtime }} - {{ end }}{{ .Permalink }}">
+		<meta property="og:title" content="{{ .Title }}">
+		<meta property="og:description" content="{{ .Title }} - {{ if .Params.Track }}{{ .Params.artist }} - {{ if .Params.genres }}{{ .Params.genres }}{{end}} - {{ .Params.releasetype }} - {{ .Params.release }} - {{ .Params.runtime }}{{ end }}{{ .Permalink }}">
+		<meta property="og:type" content="{{ if eq .Title "directory" }}profile{{ else if .Params.track }}music.song{{ else if .Params.blog }}article{{ else }}website{{ end }}">
+		<meta property="og:url" content="{{ .Permalink }}">
+		<meta property="og:image" content="{{ if .Params.cover }}/covers/{{ .Params.cover }}{{ else }}/favi.png{{ end }}">
+		<meta property="og:image:alt" content="logo icon">
+		<link rel="manifest" href="site.webmanifest">
+		<meta name="theme-color" content="#ffffff">
+		
+	</head>
+	
+	<body>
+		<div id=header>
+		
+			<h1 class=pgtitle>>&nbsp{{ .Title }}&nbsp<</h1>
+			<h1 class=glow>>&nbsp{{ .Title }}&nbsp<</h1>
+			<h1 class=glow1>>&nbsp{{ .Title }}&nbsp<</h1>
+
+		</div>
+		
+		<div id=nav>
+			
+			<p>
+			
+				>><a href="/">home</a><span class=light><a href="/blog">resources</a></span><span class=lighter><a href="/directory">blog</a></span><span class=lightest><a href="/blog"></a></span>
+			
+			</p>
+			
+		</div>
+		
+		
+		<div id="main">
