@@ -3,11 +3,11 @@ date = '2025-02-19T10:48:25-06:00'
 title = 'home'
 +++
 
-{{< title >}}
-> welcome to my webzone <
+## {{< title >}}
+ // pixyc
 {{< /title >}}
 
-make yourself at home. here if you'd like
+makes music, live visuals, and dj's for the internet.
 
 ---
 
@@ -21,4 +21,14 @@ make yourself at home. here if you'd like
 [bsky](https://bsky.app/profile/pixyc.cc) - 
 [twitter](https://x.com/pixycc) - 
 [fedi](https://wetdry.world/@orchid) - 
-[youtube](https://youtube.com/@sleepy-neko)
+[personal youtube](https://youtube.com/@sleepy-neko) -
+[twitch](https://www.twitch.tv/pixelcreature_)
+
+
+i host virtual rave events! check out NOIZEWELL @ [discord](https://discord.gg/UF4hvwcNXJ) - 
+[twitch](https://www.twitch.tv/NOIZ_EVENTS) -
+[vrchat](https://vrc.group/NOIZE.9545)
+
+---
+
+### main feed ---
