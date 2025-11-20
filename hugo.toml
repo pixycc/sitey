@@ -1,4 +1,4 @@
-baseURL = 'pixyc.cc'
+baseURL = 'https://pixyc.cc/'
 languageCode = 'en-us'
 title = 'nullvoice'
 titleCaseStyle = 'none'

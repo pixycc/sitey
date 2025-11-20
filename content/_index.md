@@ -22,7 +22,9 @@ makes music, live visuals, and dj's for the internet.
 [twitter](https://x.com/pixycc) - 
 [fedi](https://wetdry.world/@orchid) - 
 [personal youtube](https://youtube.com/@sleepy-neko) -
-[twitch](https://www.twitch.tv/pixelcreature_)
+[twitch](https://www.twitch.tv/pixelcreature_) -
+
+[support me on ko-fi!](https://ko-fi.com/pixelcreature)
 
 
 i host virtual rave events! check out NOIZEWELL @ [discord](https://discord.gg/UF4hvwcNXJ) - 
