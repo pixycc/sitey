@@ -1,6 +1,6 @@
 baseURL = 'https://pixyc.cc/'
 languageCode = 'en-us'
-title = 'nullvoice'
+title = 'pixyc'
 titleCaseStyle = 'none'
 pluralizelisttitles = 'false'
 [security]

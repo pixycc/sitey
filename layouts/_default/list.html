@@ -10,9 +10,9 @@
 		{{ if .Params.cover }}
 			
 			<picture>
-				{{ if .Params.jxl }} <source srcset="/covers/jxl/{{ .Params.jxl }}" type="image/jxl"> {{ end }}
-				{{ if .Params.webp }} <source srcset="/covers/webp/{{ .Params.webp }}" type="image/webp"> {{ end }}
-				<img src="/covers/{{ .Params.cover }}" class=cover>
+				{{ if .Params.jxl }} <source srcset="{{ .Params.jxl }}" type="image/jxl"> {{ end }}
+				{{ if .Params.webp }} <source srcset="{{ .Params.webp }}" type="image/webp"> {{ end }}
+				<img src="{{ .Params.cover }}" class=cover>
 			</picture>
 			
 			
