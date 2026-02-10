@@ -36,6 +36,7 @@ stoat: pixyc#4058 -
 
 [bandcamp](https://pixyc.bandcamp.com/) - 
 [soundcloud](https://soundcloud.com/pixycc) - 
+[newgrounds](https://pixyc.newgrounds.com/) - 
 [artist youtube](https://youtube.com/@pixycc) - 
 [peertube](https://makertube.net/c/pixyc/videos) - 
 [bsky](https://bsky.app/profile/pixyc.cc) - 
