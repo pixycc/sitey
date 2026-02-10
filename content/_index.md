@@ -15,6 +15,8 @@ welcome to my humble little site! use the navigation bar on the top to get aroun
 
 ### // featured release
 
+{{< pic >}}/covers/brkz.jpg{{</ pic >}}
+
 **pixyc - winter breakz** // released 01.25.26
 
 **listen on** [bandcamp](https://pixyc.bandcamp.com/track/winter-breakz) - 
