@@ -22,7 +22,17 @@ welcome to my humble little site! use the navigation bar on the top to get aroun
 
 ---
 
-### > places online <
+### > contact me! <
+
+[mailto](mailto:pixyc@proton.me) -
+discord: pixyc - 
+stoat: pixyc#4058 - 
+.drea:matrix.org - 
+[telegram](https://t.me/pixycc)
+
+
+#### // places online
+
 
 [bandcamp](https://pixyc.bandcamp.com/) - 
 [soundcloud](https://soundcloud.com/pixycc) - 
