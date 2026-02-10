@@ -1,11 +1,15 @@
 +++
+
 title = 'pixyc.cc'
+
 +++
 
 ### /// (pixel creature) "picks-ick" - a blog by rel
 welcome to my humble little site! use the navigation bar on the top to get around! i make music, dj, sometimes make art, and rant about tech.
 
-[subscribe to the rss feed](/index.xml)
+
+#### points of interest:
+[rss feed](/index.xml) - [production resources](/tags/resources/) - [misc stuff i dont upload on official platforms](/feed/0-misc/)
 
 ---
 
@@ -18,8 +22,6 @@ welcome to my humble little site! use the navigation bar on the top to get aroun
 [youtube](https://www.youtube.com/watch?v=PrIPa9aicw0) - 
 [peertube](https://makertube.net/w/rpvkecZowFH5DRTs2GfftC)
 
-
-
 ---
 
 ### > contact me! <
@@ -30,21 +32,24 @@ stoat: pixyc#4058 -
 .drea:matrix.org - 
 [telegram](https://t.me/pixycc)
 
-
 #### // places online
-
 
 [bandcamp](https://pixyc.bandcamp.com/) - 
 [soundcloud](https://soundcloud.com/pixycc) - 
-[youtube](https://youtube.com/@pixycc) - 
+[artist youtube](https://youtube.com/@pixycc) - 
+[peertube](https://makertube.net/c/pixyc/videos) - 
 [bsky](https://bsky.app/profile/pixyc.cc) - 
 [twitter](https://x.com/pixycc) - 
 [fedi](https://wetdry.world/@orchid) - 
 [personal youtube](https://youtube.com/@sleepy-neko) -
-[twitch](https://www.twitch.tv/pixelcreature_) -
-[peertube](https://makertube.net/c/pixyc/videos)
+[twitch](https://www.twitch.tv/pixelcreature_)
+
+
+[soundcloud wip dump alt](https://soundcloud.com/icxpy)
+
 
 [support me on ko-fi!](https://ko-fi.com/pixelcreature)
+
 
 i host virtual rave events! check out NOIZEWELL @ [discord](https://discord.gg/UF4hvwcNXJ) - 
 [twitch](https://www.twitch.tv/NOIZ_EVENTS) - 
