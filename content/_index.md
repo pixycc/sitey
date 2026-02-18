@@ -5,7 +5,7 @@ title = 'pixyc.cc'
 +++
 
 ### /// (pixel creature) "picks-ick" - a blog by rel
-welcome to my humble little site! use the navigation bar on the top to get around! i make music, dj, sometimes make art, and rant about tech.
+welcome to my humble little site! use the navigation bar on the top to get around!
 
 
 #### points of interest:
@@ -31,6 +31,7 @@ welcome to my humble little site! use the navigation bar on the top to get aroun
 [mailto](mailto:pixyc@proton.me) -
 discord: pixyc - 
 stoat: pixyc#4058 - 
+fluxer: pixyc#6018
 .drea:matrix.org - 
 [telegram](https://t.me/pixycc)
 
@@ -59,3 +60,11 @@ i host virtual rave events! check out NOIZEWELL @ [discord](https://discord.gg/U
 [vrchat](https://vrc.group/NOIZE.9545) - 
 [bsky](https://bsky.app/profile/noiz-events.bsky.social) - 
 [twitter](https://x.com/NOIZ_EVENTS)
+
+---
+
+{{< center >}}obligatory 88x31 section{{</ center >}}
+
+
+
+{{< 8831 >}}

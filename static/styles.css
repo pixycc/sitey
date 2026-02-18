@@ -1,6 +1,5 @@
 a {
 	color: inherit;
-	
 }
 
 @font-face {
@@ -24,6 +23,7 @@ body {
    	background-attachment: fixed;
     background-position: center center;	
 	background-image: url('./dark.png');
+	background-attachment:fixed;
 	background-size: auto;
 	
 	image-rendering: pixelated;	
@@ -32,8 +32,6 @@ body {
 }
 
 #header {
-	
-
 	
     max-width: 100%;
 	position: absolute;
@@ -76,12 +74,17 @@ body {
 	margin-top: 0px;
 	margin-bottom: 0px;
 	
-	text-decoration: none;
+	a {
+		text-decoration: none;
+	};
 	
 	p {
 		margin-top: 0px;
 		margin-bottom: -0.5rem;
 		z-index: 1;
+			a {
+				text-decoration: none;
+			};
 	}
 	
 	.light {
@@ -165,6 +168,10 @@ body {
 		bottom: 0;
 		right: 0;
 		
+		a {
+			text-decoration: none;
+		};
+		
 		.chip {
 			
 			font-size: 16px;
@@ -176,6 +183,9 @@ body {
 			margin: 0.125rem;
 			padding-bottom: 0.125rem;
 			display: inline-block;
+			a {
+				text-decoration: none;
+			};
 			
 			img {
 				width: 1rem;
@@ -207,6 +217,12 @@ body {
 	float: right;
 	color: #ffffff90;
 }
+
+/*
+    -------------------------------
+	--- LIGHT MODE FALL-FORWARD ---
+	-------------------------------
+*/
 
 @media (prefers-color-scheme: light) {
 	
