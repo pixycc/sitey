@@ -17,29 +17,29 @@ i'd best turn this into its own page tbh. and fuck man i don't wanna make all of
 
 -
 
-**image editing** / **graphic design** --- Affinity Designer, Figma, GIMP on pc, Pixelmator Pro on mac, occasionally Aseprite
+**image editing** / **graphic design** --- [Affinity Designer](https://www.affinity.studio/graphic-design-software), [Figma](https://www.figma.com/), [GIMP](https://www.gimp.org/) on pc, [Pixelmator Pro](https://www.pixelmator.com/pro/) on mac, occasionally [Aseprite](https://www.aseprite.org/)
 
-**visuals** --- TouchDesigner, sometimes Blender, DaVinci Resolve
+**visuals** --- [TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner), sometimes [Blender](https://www.blender.org/), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
-**making this site** --- Notepad++ (windows), TextMate (mac), Kate (linux). Hugo, Windows Terminal, iTerm2 (mac), GitHub Desktop
-
--
-
-**browsers** --- Zen, sometimes Vivaldi or Helium, Orion on mac
-
-**audio player** --- foobar2000 (windows), DeaDBeeF (macos, linux)
-
-**notes**, **organization** --- Notion, TickTick
-
-**media utilities** --- MPC-BE (windows), IINA (mac), MPV (linux). OBS Studio, HandBrake
-
-**file sharing** --- Tixati (windows, linux), Transmission (mac), Nicotine+, WinSCP (windows), Transmit (mac), FileZilla (linux)
-
-**archive manager** --- i'm sorry, WinRAR is just so much better a UX than the alternatives on windows. keka on mac
+**making this site** --- [Notepad++](https://notepad-plus-plus.org/) (windows), [TextMate](https://macromates.com/) (mac), [Kate](https://kate-editor.org/) (linux). [Hugo](https://gohugo.io/), [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/), [iTerm2](https://iterm2.com/) (mac), [GitHub Desktop](https://desktop.github.com/)
 
 -
 
-**stuff for windows** - Voidtools Everything (absolutely ESSENTIAL YOU NEED TO HAVE THIS), PowerToys, Twinkle Tray, EarTrumpet
+**browsers** --- [Zen](https://zen-browser.app/), sometimes [Vivaldi](https://vivaldi.com/) or [Helium](https://helium.computer/), [Orion](https://orionbrowser.com/) on mac
+
+**audio player** --- [foobar2000](https://www.foobar2000.org/) (windows), [DeaDBeeF](https://deadbeef.sourceforge.io/) (macos, linux)
+
+**notes**, **organization** --- [Notion](https://www.notion.com/), [TickTick](https://www.ticktick.com/)
+
+**media utilities** --- [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) (windows), [IINA](https://iina.io/) (mac), [MPV](https://mpv.io/) (linux). [OBS Studio](https://obsproject.com/), [HandBrake](https://handbrake.fr/)
+
+**file sharing** --- [Tixati](https://tixati.com/) (windows, linux), [Transmission](https://transmissionbt.com/) (mac), [Nicotine+](https://nicotine-plus.org/), [WinSCP](https://winscp.net/) (windows), [Transmit](https://panic.com/transmit/) (mac), [FileZilla](https://filezilla-project.org/) (linux)
+
+**archive manager** --- i'm sorry, [WinRAR](https://www.rarlab.com/) is just so much better a UX than the alternatives on windows. [keka](https://www.keka.io/) on mac
+
+-
+
+**stuff for windows** - [Voidtools Everything](https://www.voidtools.com/) (absolutely ESSENTIAL YOU NEED TO HAVE THIS), [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/), [Twinkle Tray](https://twinkletray.com/), [EarTrumpet](https://eartrumpet.app/)
 
 -
 
