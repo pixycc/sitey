@@ -23,3 +23,7 @@ stuff i don't want to be public on sc, yt, and shit
 ## misc
 
 [crazy balls mode](https://www.mediafire.com/file/orobn379izitdqu/crazy_balls_mode_3.flac/file)
+
+## legacy releases
+
+[public folder](https://www.mediafire.com/folder/zz5ia0hkfa2t8/legacy)
