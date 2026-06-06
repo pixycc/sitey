@@ -4,19 +4,11 @@ title = 'pixyc.cc'
 
 +++
 
-
-
-### /// (pixel creature) "picks-ick"
-
-use the navigation bar on the top to get around
-
-other points of interest:
-
-[rss feed](/index.xml) - [production resources](/tags/resources/) - [misc stuff i dont upload on official platforms](/feed/0-misc/)
+^ links above to most points of interest ^
 
 ---
 
-### // featured
+### // winter breakz
 
 {{< pic >}}/covers/brkz.jpg{{</ pic >}}
 
@@ -29,31 +21,30 @@ other points of interest:
 
 ---
 
-### > plz send me a message! <
+### > send a message! <
 
 [pixyc@proton.me](mailto:pixyc@proton.me)
 
 [discord pixyc](<https://discord.com/users/449573773662748672>) -
-[.drea:matrix.org](https://matrix.to/#/@.drea:matrix.org) -
-[t.me/pixycc](https://t.me/pixycc) -
-stoat pixyc#4058 -
-fluxer pixyc#6018
+[t.me/pixycc](https://t.me/pixycc)
+
 
 #### // places online
 
 music - 
+[subvert](https://www.subvert.fm/pixyc) **(NEW!)** -
 [bandcamp](https://pixyc.bandcamp.com/) -
 [soundcloud](https://soundcloud.com/pixycc) -
 [newgrounds](https://pixyc.newgrounds.com/) -
-[artist youtube](https://youtube.com/@pixycc) -
+[youtube](https://youtube.com/@pixycc) -
 [peertube](https://makertube.net/c/pixyc/videos)
+
+[misc music i dont upload](/feed/0-misc/)
 
 
 social media - [bsky](https://bsky.app/profile/pixyc.cc) -
-[twitter](https://x.com/pixycc) -
 [fedi](https://wetdry.world/@orchid) -
-[personal youtube](https://youtube.com/@sleepy-neko) -
-[twitch](https://www.twitch.tv/pixelcreature_)
+[personal youtube](https://youtube.com/@sleepy-neko)
 
 -
 

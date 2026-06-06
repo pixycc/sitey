@@ -6,14 +6,14 @@ title = 'about'
 ## // site
 
 
-this site is built wtih the Hugo framework. it is based on no existing template, rather one i built entirely myself. you can view the source [here](https://github.com/pixycc/sitey), though i highly recommend against it. it is an utter fucking mess. eventually i might clean it up and make it a public template tho.
+this site is built wtih the Hugo framework. it is based on no existing template, rather one i built entirely myself. you can view the source [here](https://github.com/pixycc/sitey), as embarrased as i am about it.
 
 i made and rendered the background myself in Blender, then crunched it down to 16 colours (shades of grey). i considered transcoding to more efficient codecs (lossless webp, jpeg-xl) but the size improvement was so miniscule i dropped them.
 
 
 ### / software
 
-i'd best turn this into its own page tbh. and fuck man i don't wanna make all of these into clickable links (but i really should).
+stuff i use, like to use, and recommend.
 
 -
 
@@ -35,7 +35,7 @@ i'd best turn this into its own page tbh. and fuck man i don't wanna make all of
 
 **file sharing** --- [Tixati](https://tixati.com/) (windows, linux), [Transmission](https://transmissionbt.com/) (mac), [Nicotine+](https://nicotine-plus.org/), [WinSCP](https://winscp.net/) (windows), [Transmit](https://panic.com/transmit/) (mac), [FileZilla](https://filezilla-project.org/) (linux)
 
-**archive manager** --- i'm sorry, [WinRAR](https://www.rarlab.com/) is just so much better a UX than the alternatives on windows. [keka](https://www.keka.io/) on mac
+**archive manager** --- i'm sorry, [WinRAR](https://www.rarlab.com/) is just so much better a UX than the alternatives on windows. otherwise ig u could use [nanazip](https://nanazip.org/). [keka](https://www.keka.io/) on mac
 
 -
 
@@ -55,26 +55,22 @@ constantly bouncing back and forth between windows 10 and 11, and sometimes fedo
 
 keychron k4, mx master 2s
 
-random junk 1080p monitor (looking to get a u3011, u3014, or up3017 because because 16:10 is PEAK)
+random junk 1080p monitor (looking to get a u3011, u3014, or up3017 because because 16:10 is way better than 16:9 for desktops)
 
-presonus audiobox usb 96 (i HIGHLY recommend **AGAINST** buying presonus)
+presonus audiobox usb 96 (i recommend **AGAINST** presonus)
 
-audio technica ath-m50x - one of the hinges broke so i had to glue it back together. now it works again but it doesn't fold :(
+akg k361bt, formerly m50x but they broke
 
 blue snowball ice (i used to have an mxl 991 but i broke it by accident. i'm looking to get an sm57 the next chance i get though)
 
-random $30 32-key midi keyboard (any'll do)
+random $30 32-key midi keyboard (any'll do. this one's starting to break tho)
 
-hercules inpulse 300 mk2 (was gifted to me. if i had a choice it would've been a pioneer)
-
--
-
-MacBook Pro 15" Mid-2015 - i7-4870HQ, R9 M370X 2gb, 16gb ddr3, 512gb ssd
-
-dual booting macos 10.14 Mojave and macos 13 Ventura via OpenCore Legacy Patcher
-
-the battery life is abysmal and i'm not entirely sure why. i think the refurbisher who sold me it might've fucked something up when they swapped the mobo.
+hercules inpulse 300 mk2 (was gifted to me. if i had a choice it would've been a pioneer, or a starlight for portability)
 
 -
 
-samsung galaxy note9, lavendar purple, 512gb. last uncompromised flagship phone, 3.5mm jack, micro sd card reader, fingerprint reader on back. also while i dont mind hole-punches i prefer the large bezel of the note9. every day i contemplate whether i should just move on already. oh and i doodle with it sometimes.
+looking to get a laptop to substitute most of the functionality of my desktop. had a macbook air m1 16/512 but had to sell it in the past.
+
+-
+
+motorola razr 2024, 256gb, formerly a note9
